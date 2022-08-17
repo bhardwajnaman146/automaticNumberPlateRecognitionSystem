@@ -4,5 +4,5 @@
 
 
 ## Tools I use
-<img src="[https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg](https://www.marct.ai/companies/streamlit)">
+<img src="[[https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg](https://www.marct.ai/companies/streamlit)](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)">
 
