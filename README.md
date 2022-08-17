@@ -1,6 +1,6 @@
 # License Plate Recognition using YOLO, pytesseract and StreamLit.
 # Can recogonize number plate using our coustom trained weights.
-# Crop the image, used pytesseract to read and then print it.
+# Then cropped the image, after that used pytesseract to read and then print it.
 
 
 ## Tools I used.
